@@ -1,6 +1,6 @@
 **DAccutic**: Employee Salary Prediction
 
-**Project Overview**: DAccutic is a machine learning project aimed at predicting whether employees in an organization earn more than 50k USD based on a variety of features available in the dataset. The project explores the application of five different classification models: Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Random Forest, and Decision Tree.
+**Project Overview**: DAccutic is a machine learning project aimed at predicting whether employees in an organization earn more than 50k USD based on a variety of features available in the dataset. The project explores the application of five different classification models: Logistic Regression, Naive Bayes, K-Nearest Neighbors (KNN), Random Forest, and Decision Tree.
 
 **Objectives**:
 - To analyze the dataset and identify the most relevant features influencing employee salary.
